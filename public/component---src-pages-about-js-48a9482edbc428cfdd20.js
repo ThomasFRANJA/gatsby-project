@@ -1,2 +1,0 @@
-(self.webpackChunkgatsby_static_website=self.webpackChunkgatsby_static_website||[]).push([[682],{5518:function(e,t,a){"use strict";a.r(t);var l=a(7294),n=a(4714);t.default=function(){return l.createElement(n.Z,null,l.createElement("div",null,l.createElement("h1",null,"This page talk about")))}}}]);
-//# sourceMappingURL=component---src-pages-about-js-48a9482edbc428cfdd20.js.map
